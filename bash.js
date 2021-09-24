@@ -1,0 +1,8 @@
+const pwdLogic = require('./pwd.js')
+const lsLogic = require('./ls.js')
+const catLogic = require('./cat.js')
+const curlLogic = require('./curl.js')
+pwdLogic()
+lsLogic()
+catLogic()
+curlLogic()
